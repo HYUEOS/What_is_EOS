@@ -10,15 +10,15 @@
 EOS는 컴퓨터소프트웨어학부의 학술동아리입니다. 안드로이드 앱개발을 주목적으로 하며 이를 위해 서버, 데이터 베이스, iOS 개발 등 다양한 분야에 대해 탐구하고 학습하는 동아리 입니다. 또한, 다양한 친목 활동들도 진행하고 있습니다! 학업, 스펙, 친목 무엇 하나 놓치지 않는 최고의 동아리입니다!
 
 + <b>활동 1 : 정기회합과 멘토링</b><br>
- 매주 월요일 18:00 ~ 19:30
- <b>Basic반 : </b>1학기 - 안드로이드 앱개발을 위한 Java언어 공부, 2학기 - 안드로이드 스튜디오를 이용한 간단한 앱개발
+ 매주 월요일 18:00 ~ 19:30  
+ <b>Basic반 : </b>1학기 - 안드로이드 앱개발을 위한 Java언어 공부, 2학기 - 안드로이드 스튜디오를 이용한 간단한 앱개발  
  <b>Advenced반 : </b>1학기 - 앱개발을 위한 서버, 코틀린 등의 공부, 2학기 - 안드로이드 앱 개발 팀 프로젝트
 
 + <b>활동 2 : 멘토링 : </b><br>
 회합 시간의 부족한 부분을 채우고 학교생활에 대해 편하게 물어보는 멘토링 활동
 
 + <b>활동 3 : 스터디</b><br>
-자신에게 필요한 스터디를 개설하고 함께 공부.
+자신에게 필요한 스터디를 개설하고 함께 공부.  
 그동안은 앱개발을 위한 안드로이드 스튜디오 스터디, swift 스터디, 부족한 공부를 위한 수학 스터디, Java 스터디, C++ 스터디, 그외에도 방학을 알차게 보내기 위한 공부 스터디와 c# 등 새로운 언어를 공부하는 스터디들이 개설되었습니다!
 
 + <b>활동 4 : ESC</b><br>
@@ -52,13 +52,14 @@ EOS는 컴퓨터소프트웨어학부의 학술동아리입니다. 안드로이�
 
 ## 지금 당장 EOS에 대해 알고 싶으시면?
 
-저희 사이트인 [hyu-eos tistory.](https://hyu-eos.tistory.com/category)을 보시면 EOS의 발자취를 보실 수 있습니다.
-또한 [EOS 페이스북 페이지](https://www.facebook.com/EveryonesOpenableService/)와 [EOS 인스타그램](https://www.instagram.com/hyu_eos/)에서도 다양한 활동 사진들과 기록들을 올리고 있으니 보시기 바랍니다!
+저희 사이트인 [hyu-eos tistory.](https://hyu-eos.tistory.com/category)을 보시면 EOS의 발자취를 보실 수 있습니다.  
+또한 [EOS 페이스북 페이지](https://www.facebook.com/EveryonesOpenableService/)와  
+[EOS 인스타그램](https://www.instagram.com/hyu_eos/)에서도 다양한 활동 사진들과 기록들을 올리고 있으니 보시기 바랍니다!
 
 ### 마지막으로, 에오스 선배님들의 다양한 앱 소개!
 
-[수험생 키우기](https://play.google.com/store/apps/details?id=chajunkyu.firstrelease.suheomsaeng20)
-[헬로우봇](https://play.google.com/store/apps/details?id=chajunkyu.firstrelease.suheomsaeng20)
-[uday](https://play.google.com/store/apps/details?id=com.jinypp)
+[수험생 키우기](https://play.google.com/store/apps/details?id=chajunkyu.firstrelease.suheomsaeng20)  
+[헬로우봇](https://play.google.com/store/apps/details?id=chajunkyu.firstrelease.suheomsaeng20)  
+[uday](https://play.google.com/store/apps/details?id=com.jinypp)  
 
 가장 최근에 등록된 앱들입니다! 이외에도 다양한 앱들이 있고, 올해도 여러 앱들을 출시할 예정이니 많이 기대해주세요!
