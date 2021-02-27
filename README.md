@@ -56,8 +56,7 @@ EOS는 컴퓨터소프트웨어학부의 학술동아리입니다. 안드로이�
 [EOS 인스타그램](https://www.instagram.com/hyu_eos/)에서도 다양한 활동 사진들과 기록들을 올리고 있으니 보시기 바랍니다!
 
 ### 마지막으로, 에오스 선배님들의 다양한 앱 소개!
-<img src="https://user-images.githubusercontent.com/20750910/109388421-36de2100-794a-11eb-8224-2e603bddbfc1.png" width="50" height="100">
-[수험생 키우기](https://play.google.com/store/apps/details?id=chajunkyu.firstrelease.suheomsaeng20)  
+<img src="https://user-images.githubusercontent.com/20750910/109388421-36de2100-794a-11eb-8224-2e603bddbfc1.png" width="100" height="200"> [수험생 키우기](https://play.google.com/store/apps/details?id=chajunkyu.firstrelease.suheomsaeng20)  
 [헬로우봇](https://play.google.com/store/apps/details?id=chajunkyu.firstrelease.suheomsaeng20)  
 [uday](https://play.google.com/store/apps/details?id=com.jinypp)  
 
