@@ -1,4 +1,4 @@
-# EOS는 어떤 동아리 인가요?
+# EOS, 어떤 동아리 인가요?
 
 ![포스터1](https://user-images.githubusercontent.com/20750910/109385798-c4654500-7939-11eb-9610-b1dd0ba97c81.png)
 
